@@ -1,2 +1,1 @@
-# dailyProgress
-record what I've learned of the day
+# [dailyProgress](https://github.com/norvca/dailyProgress/issues)
